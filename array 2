@@ -1,0 +1,11 @@
+public class array2 {
+    public static void main(String[] args) {
+        int mark[]={90,80,70,60,50};
+        int len = mark.length;
+        for(int i=0;i<len;i++){
+             System.out.println(mark[i]);
+        }
+
+    }
+    
+}
